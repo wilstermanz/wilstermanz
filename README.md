@@ -12,22 +12,10 @@
   </a><span>&nbsp;</span>
 </p>
 <h3 align="center">
-  I am a Machine Learning Engineering student at Holberton School in Tulsa, Oklahoma.
+  I am a Data Analyst.
   <br>
-  <a href="https://hirezach.dev">View my portfolio website!</a>
 </h3>
 
 <br>
-
-<br>
-
-  <a href="https://github.com/wilstermanz">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilstermanz&hide=ASP.NET,jupyter%20notebook&theme=dark&hide_langs_below=1" height="220px"/>
-  </a>
-  <a href="https://github.com/wilstermanz">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wilstermanz&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27" alt="Zach's github stats" height="220px" />
-  </a>
-
-
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=wilstermanz.408179647)
