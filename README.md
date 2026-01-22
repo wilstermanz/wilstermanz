@@ -12,7 +12,7 @@
   </a><span>&nbsp;</span>
 </p>
 <h3 align="center">
-  I am a Data Analyst.
+  I am a Data Engineer
   <br>
 </h3>
 
